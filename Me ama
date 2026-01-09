@@ -1,0 +1,8 @@
+alert("Boas vindas ao nosso site!")
+
+let sim = 'sim';
+
+let amor = prompt ("você me ama?");
+
+if (amor === sim) {alert ('também te amo') ;}
+else {alert ('vai tomar no cu');} 
